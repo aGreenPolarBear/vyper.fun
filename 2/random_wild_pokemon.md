@@ -2,7 +2,7 @@
 
 In the previous chapter, we initialized our contract with 20 pokemon names. Now, it's the time we battle ⚔️
 
-## Funtion with multiple return values
+## Function with multiple return values
 
 A function can also return multiple return values like the following:
 
